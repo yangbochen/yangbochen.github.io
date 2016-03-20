@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+
+	<input type="text" id="txt" placeholder="请输入用户名">
+	<input type="button" id="btn" value="添加节点">
+	<input type="button" id="del" value="删除节点">
+
+	<ul id="list">
+		<li>香蕉</li>
+		<li>苹果</li>
+		<li>鸭梨</li>
+		<li id="banana">香蕉</li>
+		<li>苹果</li>
+		<li>鸭梨</li>
+	</ul>
+
+	<script type="text/javascript" src="jquery-1.11.1.js"></script>
+	<script type="text/javascript">
+		//选择器
+		//方法：
+		  //属性：css attr text html
+		  //获取节点: siblings parent find children next
+		  //事件：click mouseenter mouseleave mouseover mouseout hover
+		  //动画：show hide fadeIn  fadeOut slideUp slideDown animate toggle slideToggle fadeToggle
+		  //DOM操作的方法
+
+		$("#btn").click(function(){
+
+			var value = $("#txt").val();
+
+			var li = "<li>" + value + "</li>";
+
+			$("#list").prepend(li);
+
+
+		})
+
+		$("#list li").click(function(){
+			$(this).remove();
+		})
+
+		$("#del").click(function(){
+
+			var val = $("#txt").val();
+
+			$("#list li").each(function(index,element){
+
+				if($(element).text() == val){
+
+					$(element).remove();
+
+				}
+			})
+
+		})
+
+	</script>
+</body>
+</html>

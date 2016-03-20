@@ -1,0 +1,181 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+ .header{
+    width:1400px;
+	height:80px;
+	background-color: white;
+}
+.app{
+	height:80px;
+	width:179px;
+	margin-left: 220px;
+	background-color: red;
+	float:left;
+}
+.app p{
+	color:white;
+	font-size: 30px;
+	text-align: center;
+   line-height: 80px;
+}
+.zhong{
+	float:left;
+	height:80px;
+	width:500px;
+	background-color: white;
+}
+.zhong ul li{
+	list-style: none;
+	float:left;
+	text-indent: 42px;
+	line-height: 80px;
+}
+.container{
+	width:1400px;
+	background-color: white;
+	height:641px;
+}
+.zi{
+	width: 509px;
+	height:185px;
+	position: relative;
+	top: 109px;
+	left:341px;
+}
+.yuehao{
+    width:140px;
+	height:32px;
+	position: absolute;
+	top: 648px;
+	left:630px;
+}
+.zi p{
+   font-size: 30px;
+   padding-top: 0px;
+   padding-left: 0px;
+   line-height: 2;
+}
+.zi ul{
+	margin-top: 10px;
+	line-height: 20px;
+}
+.zi ul li{
+	list-style: none;
+	word-spacing:-3px;
+}
+.tu{
+	width:371px;
+	height:491px;
+	position: absolute;
+	top: 157px;
+	left:881px;
+}
+.liatu1{
+	position: absolute;
+	top: 476px;
+	left:341px;
+	width:218px;
+	height:125px;
+	background-color: yellow;
+}
+.liatu2{
+	position: absolute;
+	top:476px;
+	left:581px;
+	width:218px;
+	height:125px;
+	background-color: yellow;
+}
+.sanjiao{
+	position: absolute;
+	top:272px;
+	left:132px;
+	width:88px;
+	height:90px;
+	background-color: yellow;
+}
+.footer{
+	width:1400px;
+	height:479px;
+}
+.footershang{
+	width:1400px;
+	background-color:#262626 ;
+	height:389px;
+}
+.zuo{
+	width: 560px;
+	height: 256px;
+	position: relative;
+	top:46px;
+	left:230px;
+	color:#262626;
+}
+.zuo p{
+	font-size: 24px;
+	padding-bottom:20px; 
+	color:white;
+}
+.zuo ul li{
+	list-style: none;
+	color:white;
+}
+.list2{
+	padding-bottom:20px;
+}
+.you{
+	width: 311px;
+	height: 256px;
+	position: absolute;
+	top:767px;
+	left:834px;
+	background-color:#262626 ;
+}
+.you p{
+	font-size: 20px;
+	margin-bottom: 30px;
+	color: white;
+}
+ul{
+	list-style: none;
+}
+.list9,.list11{
+	margin-bottom: 35px;
+}
+.list8,.list9,.list10,.list11,.list12,.list13{
+	margin-left: 80px;
+	font-size: 15px;
+}
+.list8,.list10,.list12{
+	color:#3c3c3c;
+}
+.list9,.list11,.list13{
+	color:white;
+}
+.yuan{
+	width: 60px;
+	height: 199px;
+	position: absolute;
+	top:57px;
+	left:0px;
+	background-color: green;
+}
+.footerxia{
+	background-color:#191919;
+	width:1400px;
+	height:90px;
+}
+.zuo1,.you2{
+	color:white;
+	float:left;
+	margin-top: 37px;
+}
+.zuo1{
+	margin-left: 230px;
+}
+.you2{
+    margin-left: 197px;
+}
+

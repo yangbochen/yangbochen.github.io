@@ -1,0 +1,203 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.header{
+	width:1146px;
+	height:492px;
+	background-color: red;
+	margin:0 auto;
+}
+.headertop{
+	width:1146px;
+	height:143px;
+	background-image:url(images/di1_06.png);
+	repeat-x;
+}
+.biao,.logo,.zi1{
+	float:left;
+}
+.biao{
+	width:110px;
+	height:143px;
+	margin-left: 73px;
+}
+.logo{
+	width:409px;
+	height:143px;
+	color:#da5100;
+	font-size: 70px;
+	letter-spacing:-5px;
+	line-height: 143px;
+}
+.yin{
+	color:#d0d0d0;
+}
+.zi1{
+	height:143px;
+	width:554px;
+}
+ .headertop ul li{
+   list-style: none;
+   color:#5c5852;
+   float:left;
+   line-height: 143px;
+   margin-left: 26px;
+}
+.te{
+	color:#da5100;
+	margin-left: 0px;
+}
+.headerbottom{
+	background-image:url(images/se2_20.png);
+	repeat-x;
+	width:1146px;
+	height:349px;
+}
+.headerbottom p{
+	color:white;
+	padding-top: 65px;
+	margin-left: 102px;
+	font-size: 30px;
+}
+.headerbottom ul{
+	margin-top: 25px;
+}
+.headerbottom ul li{
+	list-style: none;
+	color:#62605c;
+	margin-left:102px;
+	letter-spacing: -1px; 
+	word-spacing: -1px;
+	line-height: 20px;
+}
+.more1{
+    position: absolute;
+    top:375px;
+	left:202px;
+	width:112px;
+	height:42px;
+}
+.container{
+	width:1146px;
+	height:895px;
+	margin:0 auto;
+	background-image:url(images/zhen_03.png);
+	repeat-x;
+}
+.containertop{
+	width:1146px;
+	height:257px;
+}
+.zuo{
+    position: absolute;
+    top:529px;
+	left:202px;
+	width:304px;
+	height:183px;
+}
+.zhong{
+    position: absolute;
+    top:529px;
+	left:525px;
+	width:301px;
+	height:183px;
+}
+.you{
+    position: absolute;
+    top:529px;
+	left:845px;
+	width:301px;
+	height:183px;
+}
+.containercenter{
+	width:1146px;
+	height:330px;
+}
+.ri1{
+	position: absolute;
+    top:811px;
+	left:205px;
+	width:60px;
+	height:60px;
+}
+.more2{
+	position: absolute;
+    top:994px;
+	left:287px;
+	width:105px;
+	height:40px;
+}
+.next {
+	color:white;
+	font-size: 40px;
+	margin-left: 105px;
+}
+.diyi ul li{
+	margin-left: 187px;
+	list-style: none;
+}
+.containercenter  ul{
+   margin-top: 28px;
+}
+.containercenter .5{
+	padding-top: 27px;
+}
+.heikuai{
+	width:302px;
+	height:49px;
+	position: absolute;
+	top: 751px;
+	left: 845px;
+	background-color: black;
+}
+.heikuai{
+	color:white;
+	font-size:30px;
+	padding-left: 5px;
+	line-height: 49px;
+}
+.containerbottom{
+	width:1146px;
+	height:308px;
+}
+.more3{
+	position: absolute;
+    top:1288px;
+	left:287px;
+	width:105px;
+	height:40px;
+}
+.ren{
+	position: absolute;
+	width:369px;
+	height:357px;
+	top:105px;
+	left:818px;
+}
+.hai {
+	position: absolute;
+	width:219px;
+	height:159px;
+	top:1097px;
+	left:287px;
+}
+.hang{
+	position: absolute;
+	width:302px;
+	height:273px;
+	top:800px;
+	left:845px;
+}
+.hang ul li{
+	list-style-image: url(images/sanjiao_17.png);
+	margin-left: 15px;
+	line-height: 30px;
+}
+.footer{
+	width:1146px;
+	height:150px;
+	margin:0 auto;
+	background-image:url(images/di1_06.png);
+	repeat-x;
+}

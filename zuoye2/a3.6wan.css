@@ -1,0 +1,235 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+#header{
+	width:930px;
+	height:484px;
+	margin:0 auto;
+}
+#logo{
+    width:110px;
+    height:102px;
+    float:left;
+}
+#nav{
+	width:471px;
+	height:102px;
+	float:left;
+	font-size:12px;
+	font-style:serif；
+}
+span{
+	display:block;
+}
+#nav ul li
+{
+	float:left;
+	list-style:none;
+	padding-top: 28px;
+	padding-left: 34px;
+}
+#search{
+	width:349px;
+	height:102px;
+	float:right;
+}
+#banner{
+	width: 930px;
+	height:382px;
+}
+#search ul li
+{
+ float: left;
+ list-style: none;
+ color:blue;
+ font-size:5px;
+}
+#shang{
+	height:33px;
+}
+#zhong {
+	height:25px;
+	width: 200px;
+	float；right; 
+	padding-left: 100px;
+}
+#zhong input{
+	float: right;
+}
+#xia{
+	height:30px;
+	padding-bottom: 24px;
+	padding-left: 20px;
+	float；right;
+}
+#xia p{
+	float: right;
+	font-size:8px;
+}
+#container{
+	width: 930px;
+	height:577px;
+	margin:0 auto;
+}
+#mm{
+	height:305px;
+	margin-top: 26px;
+	margin-bottom: 0px;
+}
+h4{
+	line-height:1.5;
+}
+#aa ul{
+	list-style: none;
+	line-height:1.5;
+}
+#mm #box1{
+	float:left;
+	width:302px;
+	height:281px;
+	border: 1px solid;
+	border-color: blue;
+}
+#box1 ul li{
+	padding-right: 8px;
+	line-height:1.5;
+	margin-left: 15px;
+	float
+}
+#box1 ul {
+list-style-image: url(shabi_09.jpg)
+}
+#box2{
+	float:left;
+	width:300px;
+	height:281px;
+	margin-left: 9px;
+	border: 1px solid;
+	border-color: blue;
+}
+#box2 ul {
+     list-style-image: url(shabi_09.jpg)
+}
+#box2 ul li{
+	line-height:10px;
+	line-height:1.5;
+	margin-left: 15px;
+}
+#box3{
+	float:left;
+	width:302px;
+	height:281px;
+	line-height:1.5;
+	border: 1px solid;
+	border-color: blue;
+	margin-left: 9px;
+}
+#box3 ul {
+list-style-image: url(shabi_09.jpg)
+}
+#box3 ul li{
+	margin-left: 15px;
+}
+#gg {
+	height:51px;
+}
+#gg #meiguo{
+	margin-left: 7px;
+	padding-top: 15px;
+}
+p{
+	
+}
+#aa{
+   height:221px; 
+   border: 1px solid;
+   border-color: blue;
+   clear:both;
+}
+#aa ul{
+	margin-left: 20px;
+	height:1.5;
+	font-size: 20px;
+}
+#aa h4{
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+#aa #a1{
+	 height:221px; 
+	 width:185px;
+	 float:left;
+}
+#a1 ul{
+	list-style-image: url(shabi_09.jpg)
+	 list-style: inline;
+}
+#a1 ul li{
+	line-height:20px;
+	 
+}
+#aa #a2{
+	 height:221px; 
+	 width:185px;
+	  float:left;
+}
+#a2 #aa2 #ab2 ul{
+	list-style-image: url(shabi_09.jpg)
+}
+#a2 ul li{
+	line-height:20px;
+}
+#aa #a3{
+	 height:221px; 
+	 width:185px;
+	  float:left;
+}
+#a3 ul{
+	list-style-image: url(shabi_09.jpg)
+}
+#a3 ul li{
+	line-height:20px;
+}
+#aa #a4
+{
+	 height:221px; 
+	 width:185px;
+	  float:left;
+}
+#a4 ul{
+	list-style-image: url(shabi_09.jpg)
+}
+#a4 ul li{
+	line-height:20px;
+}
+#aa #a5
+{
+	 float:left;
+	 height:221px; 
+	 width:185px;
+}
+ul li{
+	list-style-image: url(shabi_09.jpg)
+}
+#aa {
+	float: right;
+}
+#a5 ul li{
+	line-height:20px;
+}
+#footer{
+	height:123px;
+	width: 930px; 
+	margin: 0 auto;
+}
+#lolo{
+	padding-top: 40px;
+}
+#lolo ul li{
+	font-size: 10px;
+	color:blue;
+	list-style: none;
+	text-align: center
+}
